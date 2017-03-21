@@ -1,0 +1,4 @@
+RoleName###Roletype###Results
+Cashier45###E
+Cashier49###E
+Cashier54###E

@@ -1,0 +1,4 @@
+RoleName###Roletype###Results
+Cashier45@@@E(((New Role with id 527 Created Sucessfully
+Cashier49@@@E(((New Role with id 528 Created Sucessfully
+Cashier54@@@E(((New Role with id 529 Created Sucessfully
